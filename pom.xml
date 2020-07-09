@@ -5,7 +5,7 @@
     <groupId>br.com.eive.integration</groupId>
     <artifactId>eive-integration</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
 
     <modules>
 	    <module>teste</module>
